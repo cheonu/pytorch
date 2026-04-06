@@ -1,2 +1,22 @@
+# Dataset folders
 /data
 /loaddata
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Virtual environment
+venv/
+
+# PyTorch model files
+*.pth
+*.pt
+
+# OS files
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
